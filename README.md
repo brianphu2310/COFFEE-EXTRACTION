@@ -1,3 +1,5 @@
+<img width="852" height="685" alt="image" src="https://github.com/user-attachments/assets/f141db6b-49b9-4aad-9dd1-ef8be9321bbb" />
+
 # COFFEE-EXTRACTION
 Analysis of 13 coffee brewing methods + Recommender Engine
 # ☕ Coffee Brewing Methods Analysis + Recommender Engine
