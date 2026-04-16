@@ -1,4 +1,6 @@
-<img width="852" height="685" alt="image" src="https://github.com/user-attachments/assets/f141db6b-49b9-4aad-9dd1-ef8be9321bbb" />
+<img width="856" height="688" alt="image" src="https://github.com/user-attachments/assets/30262200-4397-4a9c-8353-005b268d3675" />
+blob:https://claude.ai/8c3ba7c5-fdf2-4df4-a5a3-c17353413115<img width="3191" height="2373" alt="image" src="https://github.com/user-attachments/assets/5ce288c0-a1cb-4548-a335-2cf69bed0973" />
+
 
 # COFFEE-EXTRACTION
 Analysis of 13 coffee brewing methods + Recommender Engine
