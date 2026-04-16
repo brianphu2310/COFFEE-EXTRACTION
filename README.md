@@ -1,5 +1,7 @@
 <img width="856" height="688" alt="image" src="https://github.com/user-attachments/assets/30262200-4397-4a9c-8353-005b268d3675" />
 <img width="3191" height="2373" alt="image" src="https://github.com/user-attachments/assets/5ce288c0-a1cb-4548-a335-2cf69bed0973" />
+<img width="1373" height="584" alt="image" src="https://github.com/user-attachments/assets/29d7cd78-4006-4520-8a1a-0463ea6919cf" />
+
 
 
 # COFFEE-EXTRACTION
