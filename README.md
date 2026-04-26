@@ -3,13 +3,13 @@
 <img width="1373" height="584" alt="image" src="https://github.com/user-attachments/assets/29d7cd78-4006-4520-8a1a-0463ea6919cf" />
 
 
- COFFEE EXTRACTION ANALYSIS + RECOMMENDER ENGINE
+ ### COFFEE EXTRACTION ANALYSIS + RECOMMENDER ENGINE
 
-About This Project
+### About This Project 
 
-I've always been curious about how different coffee brewing methods actually compare—not just in taste, but in measurable things like caffeine content, acidity, and antioxidants. So I dug into the data on 13 brewing methods and built a recommender engine to help people find their perfect cup.
+As a former head barista, I've always been curious about how different coffee brewing methods actually compare—not just in taste, but in measurable things like caffeine content, acidity, and antioxidants. So I dug into the data on 13 brewing methods and built a recommender engine to help people find their perfect cup, and to give my coffee shop a hand in ordering system.
 
-What I Wanted to Find Out
+### What I Wanted to Find Out
 
 Which method gives you the biggest caffeine kick?
 Does longer brewing time always mean more caffeine? (Spoiler: no)
@@ -57,11 +57,11 @@ Correlation heatmap — shows how different attributes relate to each other
 Taste profile comparison — spider chart comparing methods side by side
 All generated in Python using Matplotlib and Seaborn.
 
-The Recommender Engine
+### The Recommender Engine
 
 This was the fun part. I built a system that asks you five questions and matches you with your top 3 brewing methods.
 
-The Questions
+### The Questions
 
 Question	Your Options
 How much time do you have?	Instant / Fast / Medium / Slow / Very Slow
@@ -75,7 +75,7 @@ Every brewing method starts at 0. For each answer you give, any method that fits
 
 For example, if you choose "Fast" + "Very Bold" + "Max energy" + "Full body" + "High tolerance" — you're probably getting Ristretto or Espresso as your top pick.
 
-Interactive Dashboard
+### Interactive Dashboard
 
 I put the whole thing into Tableau Public so you can actually use it interactively. You can filter by any attribute, compare methods visually, and run the recommender.
 
@@ -84,7 +84,7 @@ Live Dashboard:  [https://public.tableau.com/app/profile/brian.ma5935/viz/BrianC
 Github: [https://github.com/brianphu2310/COFFEE-EXTRACTION
 ](https://github.com/brianphu2310/COFFEE-EXTRACTION)
 
-Tools I Used
+### Tools I Used
 
 Tool	What I Used It For
 Excel	Storing and cleaning the initial data
@@ -92,7 +92,7 @@ Python (Google Colab)	Analysis, stats, and generating all the charts
 Tableau Public	Building the interactive dashboard and recommender
 Want to Try It Yourself?
 
-The data and code are all here. You can:
+### The data and code are all here. You can:
 
 Run the analysis notebook in Colab
 Recreate the charts with your own data
@@ -100,7 +100,7 @@ Tweak the recommender scoring system
 Add more brewing methods
 A Couple Limitations
 
-A few things I'd do differently next time:
+### A few things I'd do differently next time:
 
 Antioxidant ranking was qualitative (1-4 scale) — lab measurements would be better
 Caffeine varies by bean and roast, so these are averages
