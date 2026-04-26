@@ -3,7 +3,7 @@
 <img width="1373" height="584" alt="image" src="https://github.com/user-attachments/assets/29d7cd78-4006-4520-8a1a-0463ea6919cf" />
 
 
-☕ COFFEE EXTRACTION ANALYSIS + RECOMMENDER ENGINE
+ COFFEE EXTRACTION ANALYSIS + RECOMMENDER ENGINE
 
 About This Project
 
@@ -79,7 +79,10 @@ Interactive Dashboard
 
 I put the whole thing into Tableau Public so you can actually use it interactively. You can filter by any attribute, compare methods visually, and run the recommender.
 
-👉 View the Live Dashboard Here:  https://public.tableau.com/app/profile/brian.ma5935/viz/BrianCoffeeProject/Dashboard1 
+Live Dashboard:  [https://public.tableau.com/app/profile/brian.ma5935/viz/BrianCoffeeProject/Dashboard1](https://public.tableau.com/app/profile/brian.ma5935/viz/BrianCoffeeProject/Dashboard1) 
+
+Github: [https://github.com/brianphu2310/COFFEE-EXTRACTION
+](https://github.com/brianphu2310/COFFEE-EXTRACTION)
 
 Tools I Used
 
